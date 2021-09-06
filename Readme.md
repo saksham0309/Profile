@@ -15,7 +15,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   
   ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Salonee-Jain&theme=black-ice" alt="Salonee-Jain"  /></p>
+<p align="center"><img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saksham0309&theme=dark&hide_border=true&ring=DD2727)](https://git.io/streak-stats)" /></p>
 <details>
 </p>
 
