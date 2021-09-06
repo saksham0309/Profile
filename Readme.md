@@ -34,9 +34,9 @@
 
 <p align="center">
    <br>
-<a target="_blank" href="https://www.linkedin.com/in/saloni--jain/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:salonijain1248@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@saloni-jain"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/sakshammishra/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:sakshammishra87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.hackerrank.com/saksham_7"><img src="https://img.shields.io/badge/-Hackerrank-12100E?style=for-the-badge&logo=Hackerrank&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/intent/follow?screen_name=SaloniJain__"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>       
