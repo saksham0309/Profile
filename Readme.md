@@ -43,8 +43,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/Salonee-Jain/Salonee-Jain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salonee-Jain&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/saksham0309">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+" />
 </a>
 
 <a href="https://github.com/Salonee-Jain/Salonee-Jain">
