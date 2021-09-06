@@ -44,8 +44,7 @@
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/saksham0309">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham0309)
-" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
 </a>
 
 <a href="https://github.com/saksham0309">
