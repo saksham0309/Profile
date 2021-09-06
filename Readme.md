@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/saksham0309">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham0309&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 </a>
 
 
