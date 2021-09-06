@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Computer+Engineering+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Guitarist;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Computer+Engineering+Student;AI%20|%20ML%20Enthusiast;Guitarist;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <p align="center">I'm a web developer and an ML enthusiast. Developing combines imagination and problem-solving, and I'm encouraged to crack the code to enhance it. I enjoy using responsive design concepts and seeing how my web pages shrink and still look great on mobile devices. It's strangely gratifying!</p>
 
