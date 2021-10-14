@@ -1,6 +1,7 @@
 /*  import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
-
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 *{
     margin: 0;
     padding: 0;
@@ -547,7 +548,38 @@ footer span a{
 }
 footer span a:hover{
     text-decoration: underline;
+    
 }
+@media (max-width:991px) {
+    .footer-dark .item.social {
+      text-align:center;
+      margin-top:20px;
+    }
+  }
+  footer ul {
+    width: 100%;
+    text-align: center;
+    margin-top: px;
+    padding-left: 0px;
+}
+
+footer li {
+    display: inline-block;
+    margin: 15px;
+}
+
+footer li a {
+    display: block;
+    text-decoration: none;
+    border-bottom: medium none;
+    padding: 10px;
+    border-radius: 3px;
+    transition: all 0.3s ease-in 0s, all 1s ease 0s;
+    background: #1111111;
+}
+
+  
+
 
 
 /* responsive media query start */
